@@ -19,3 +19,5 @@ Anda diminta menginputkan beberapa data.
 * Lalu Program akan mengoutputkan semua data yang telah di olah.
 
 * Program selesai Flowchart latihan4
+
+![flow](https://user-images.githubusercontent.com/57041365/70905677-0eb11d80-2037-11ea-82b7-7729f92c97c5.png)
